@@ -1,27 +1,20 @@
 {
-  "name": "cos-nodejs-sdk-v5",
+  "name": "cos-file-upload",
   "version": "1.0.0",
-  "description": "cos nodejs sdk v5",
+  "description": "cos-file-upload",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tencentyun/cos-nodejs-sdk-v5.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tencentyun/cos-nodejs-sdk-v5/issues"
-  },
-  "homepage": "https://github.com/tencentyun/cos-nodejs-sdk-v5#readme",
   "dependencies": {
-    "eventproxy": "^0.3.5",
-    "async": "^2.2.0",
-    "request": "^2.81.0",
-    "xml2js": "^0.4.17"
+    "glob": "^7.1.1",
+    "locutus": "^2.0.8",
+    "log4js": "^1.1.1",
+    "qiniu": "^6.1.13",
+    "request": "^2.81.0"
   }
 }

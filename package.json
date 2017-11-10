@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "glob": "^7.1.1",
-    "locutus": "^2.0.8",
-    "log4js": "^1.1.1",
-    "qiniu": "^6.1.13",
-    "request": "^2.81.0"
+    "glob": "^7.1.2",
+    "locutus": "^2.0.9",
+    "log4js": "^2.3.11",
+    "qiniu": "^7.1.1",
+    "request": "^2.83.0"
   }
 }

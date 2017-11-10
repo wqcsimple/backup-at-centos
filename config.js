@@ -5,7 +5,7 @@
 
 // 备份的目录
 module.exports.UPLOAD_FOLDER_LIST = [
-    ''
+    '/Users/whis/Downloads/mysql'
 ];
 
 

@@ -3,6 +3,7 @@
 
 ## 使用说明
 
-配置config.js里的信息
-`node app.js`
+1. 配置config.js里的信息
+
+2. `node app.js`
 
